@@ -1,6 +1,5 @@
 -- Create the user
-CREATE USER "course-subscription-db-owner"
-WITH PASSWORD 'course-subscription-db-owner';
+CREATE USER "course-subscription-db-owner" WITH PASSWORD 'course-subscription-db-owner';
 
 -- Create the database
 CREATE DATABASE "course-subscription-db";
